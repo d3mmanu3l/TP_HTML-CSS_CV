@@ -1,0 +1,61 @@
+header {
+background-color: floralwhite; padding-top: 5PX ; padding-bottom: 5px ; text-align: center  
+}
+h2 {
+    text-transform: uppercase;
+}
+h3 {
+    text-transform: uppercase;
+}
+h4 { 
+    text-transform: uppercase
+}
+aside {
+    display: inline-block ; 
+    width: 25% ;
+   background-color: dimgrey ;
+}
+.photo {
+padding-top: 50px;
+padding-left: 55px ;
+  padding-bottom: 50px;
+padding-right: 50px
+}
+.info {
+    color: floralwhite;
+    padding-left: 55px;
+    padding-right: 50px
+}
+body {
+    background-color: floralwhite;
+}
+main {
+ background-color: floralwhite;
+    display: inline-block ;
+    width: 60% ;          
+}
+.xpblock {
+    display: flex;
+}
+.xp {
+    padding-left: 30px;      
+}
+.date {
+
+    height: 100px;
+    margin-right: 20px; 
+    padding-left: 30px;
+}
+.dtl {
+    margin-left: 10%;
+}
+
+* {
+  box-sizing: border-box;
+}
+.date div {
+    margin-bottom: 100px ;
+}
+footer {
+background-color: floralwhite; padding-top: 5PX ; padding-bottom: 5px ; text-align: center  
+}
